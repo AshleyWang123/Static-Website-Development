@@ -70,10 +70,10 @@
         <option value="$PROJECT_DIR$/dd.js" />
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/test.css" />
-        <option value="$USER_HOME$/Desktop/这个书苑不太冷5.0.html" />
-        <option value="$USER_HOME$/Desktop/index.html" />
+        <option value="$PROJECT_DIR$/../这个书苑不太冷5.0.html" />
+        <option value="$PROJECT_DIR$/../index.html" />
         <option value="$PROJECT_DIR$/CSS.css" />
-        <option value="$USER_HOME$/Desktop/adding-media/assets/stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/../adding-media/assets/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/study.html" />
         <option value="$PROJECT_DIR$/ee.html" />
         <option value="$PROJECT_DIR$/study.css" />
@@ -114,6 +114,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -142,10 +143,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Static Website Development.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/untitled/Static Website Development.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Static-Website-Development/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -239,16 +248,16 @@
     <entry file="file://$PROJECT_DIR$/dd.js" />
     <entry file="file://$PROJECT_DIR$/test.js" />
     <entry file="file://$PROJECT_DIR$/test.css" />
-    <entry file="file://$USER_HOME$/Desktop/这个书苑不太冷5.0.html" />
+    <entry file="file://$PROJECT_DIR$/../这个书苑不太冷5.0.html" />
     <entry file="file://$PROJECT_DIR$/week3" />
     <entry file="file://$PROJECT_DIR$/CSS.css" />
-    <entry file="file://$USER_HOME$/Desktop/index.html" />
-    <entry file="file://$USER_HOME$/Desktop/main.css" />
-    <entry file="file://$USER_HOME$/Desktop/setting-backgrounds-and-gradients/assets/stylesheets/main.css" />
-    <entry file="file://$USER_HOME$/Desktop/setting-backgrounds-and-gradients/index.html" />
-    <entry file="file://$USER_HOME$/Desktop/adding-media/assets/stylesheets/main.css" />
-    <entry file="file://$USER_HOME$/Desktop/adding-media/index.html" />
-    <entry file="file://$USER_HOME$/Desktop/html5wapmenu/index.html" />
+    <entry file="file://$PROJECT_DIR$/../index.html" />
+    <entry file="file://$PROJECT_DIR$/../main.css" />
+    <entry file="file://$PROJECT_DIR$/../setting-backgrounds-and-gradients/assets/stylesheets/main.css" />
+    <entry file="file://$PROJECT_DIR$/../setting-backgrounds-and-gradients/index.html" />
+    <entry file="file://$PROJECT_DIR$/../adding-media/assets/stylesheets/main.css" />
+    <entry file="file://$PROJECT_DIR$/../adding-media/index.html" />
+    <entry file="file://$PROJECT_DIR$/../html5wapmenu/index.html" />
     <entry file="file://$PROJECT_DIR$/ee.html" />
     <entry file="file://$PROJECT_DIR$/study.css" />
     <entry file="file://$PROJECT_DIR$/Static Website Development.html" />
